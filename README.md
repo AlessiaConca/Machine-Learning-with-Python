@@ -1,6 +1,7 @@
 # Machine Learning with Python
 
 >Objectives:
+
 • Understand the fundamentals of machine learning and its applications;
 • Learn how to apply machine learning techniques using Python libraries and tools;
 • Develop proficiency in data preprocessing and cleaning for machine learning;
@@ -9,6 +10,7 @@
 
 
 >Contents:
+
 • Introduction to machine learning and its applications;
 • Overview of the different types of machine learning algorithms - supervised, unsupervised, and reinforcement learning;
 • Understanding data preprocessing and cleaning techniques for machine learning;
